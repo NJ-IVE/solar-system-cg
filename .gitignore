@@ -1,0 +1,6 @@
+out/*
+!out/.gitkeep
+/scene
+/scene.exe
+/test_*
+*.exe
