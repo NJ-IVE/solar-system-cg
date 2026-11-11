@@ -17,7 +17,7 @@ Team: [A name], [B name], [C name]
 ![Scene](screenshots/scene-cp2.png)
 
 ## GitHub
-GITHUB_LINK (tag: checkpoint-2)
+https://github.com/NJ-IVE/solar-system-cg (tag: checkpoint-2)
 
 ## What remains
 - Transformations: planets rotating around the sun, moon around Earth (Phase 3)
