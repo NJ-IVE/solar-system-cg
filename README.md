@@ -1,7 +1,6 @@
-# Solar System with Comets & Meteors — ICS 3204 Computer Graphics
-Team: [A name], [B name], [C name]
+# Solar System with Comets & Meteors
 
-A solar system scene drawn pixel by pixel in pure C++ (no graphics libraries).
+A solar system scene drawn pixel by pixel in pure C++.
 Every shape uses our own implementation of a course algorithm.
 
 ![Scene](docs/screenshots/scene-cp2.png)
